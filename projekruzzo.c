@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+	printf("bunyaminin kocaman bi dali var");
+	return 0;
+}
+
